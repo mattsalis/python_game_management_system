@@ -1,0 +1,11 @@
+GameID,Name,No.Players,Genre,PurchaseDate
+art01,Articulate,4-20,Word,2025-08-01
+mon02,Monopoly,2-8,Strategy,2024-08-01
+chs03,Chess,2,Strategy,2024-07-01
+bac04,Backgammon,2,Strategy,2025-06-01
+scr05,Scrabble,2-4,Strategy,2024-07-02
+chk06,Checkers,2,Strategy,2025-02-10
+gol07,TheGameOfLife,2-4,Family,2023-06-09
+clu08,Clue,3-6,Murder-Mystery,2024-05-01
+cat09,Catan,3-4,Strategy,2022-02-08
+yah10,Yahtzee,2+,Family,2023-01-01

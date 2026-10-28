@@ -1,0 +1,12 @@
+GameID,Rating,Comments
+art01,4,Hilarious!
+bac02,2,Not exciting
+chs03,5,My favourite game of all time
+mon02,5,fun
+rl05,7,good with friends
+bac04,6,good with friends
+bac04,6,not bad
+chs03,4,boring
+rl05,8,just hit champ
+cat09,3,no
+cat09,7,a lot of fun

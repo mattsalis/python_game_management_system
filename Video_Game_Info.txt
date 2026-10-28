@@ -1,0 +1,11 @@
+GameID,Name,Platform,Genre,Purchase Date
+ff701,Final Fantasy VII,Playstation,Fantasy,2025-08-01
+gta02,Grand Theft Auto 5,Xbox,Action,2025-04-01
+mnc03,Minecraft,Nintendo Switch,Sandbox,2025-06-01
+fn04,Fortnite,Xbox,Battle Royale,2022-03-01
+rl05,Rocket League,Xbox,Sports,2024-03-05
+ea06,EA FC,Playstation,Sports,2023-01-01
+ch07,Cuphead,Xbox,Indie,2024-01-04
+f108,Formula 1,Xbox,Sports/Racing,2024-06-01
+cod09,Call Of Duty,Xbox,FPS,2025-02-05
+fp10,Frostpunk,Xbox,Survival,2023-05-01
